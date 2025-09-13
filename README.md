@@ -1,6 +1,6 @@
 # UFC_analyza
 Analýza UFC zápasů v Excelu - čištění, zpracování a vizualizace dat
-# UFC Analysis
+
 Tento repozitář obsahuje analýzu dat v Excelu.
 Projekt je zaměřený na **UFC zápasy** a zahrnuje:
 - Čištění dat (odstranění chyb a duplicit)
